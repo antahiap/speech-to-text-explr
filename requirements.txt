@@ -1,0 +1,17 @@
+python-dotenv
+ipykernel
+pandas
+SPARQLWrapper
+matplotlib
+pyvis
+seaborn
+pathlib
+scikit-learn
+google-cloud-speech
+transformers
+datasets 
+evaluate
+torch 
+torchvision 
+torchaudio
+git+https://github.com/pytorch/fairseq
